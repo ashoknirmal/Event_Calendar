@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Team Meeting",
+    "time": "10:00 AM",
+    "duration": "60",
+    "color": "blue",
+    "date": "2025-06-24"
+  },
+  {
+    "id": 2,
+    "title": "Project Review",
+    "time": "02:00 PM",
+    "duration": "45",
+    "color": "red",
+    "date": "2025-06-24"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1001,
+    "title": "Morning Jog",
+    "date": "2025-06-25",
+    "time": "6:30 AM",
+    "duration": 30,
+    "color": "blue",
+    "done": false
+  },
+  {
+    "id": 1002,
+    "title": "Team Meeting",
+    "date": "2025-06-26",
+    "time": "10:00 AM",
+    "duration": 60,
+    "color": "green",
+    "done": false
+  },
+  {
+    "id": 1003,
+    "title": "Doctor Appointment",
+    "date": "2025-06-26",
+    "time": "4:30 PM",
+    "duration": 45,
+    "color": "red",
+    "done": false
+  },
+  {
+    "id": 1004,
+    "title": "Dinner with Family",
+    "date": "2025-06-27",
+    "time": "8:00 PM",
+    "duration": 90,
+    "color": "purple",
+    "done": false
+  }
+]
